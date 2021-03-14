@@ -23,8 +23,8 @@ Estudante de Desenvolvimento web pela Trybe | Turma 11
 </p>
 <hr />
 <p>
-<strong>Meus interesses pessoais:</strong>
-- 💻 Estou estudando Front-end, **HTML**, **CSS**, **JS** e **ReactJs**.
+<strong>Meus interesses pessoais:</strong> <br />
+  - 💻 Estou estudando Front-end, <strong>HTML</strong>, <strong>CSS</strong>, <strong>JS</strong> e <strong>ReactJs</strong>. <br />
 - 👾 Meus hobbies são: 
   - Filmes e Séries;
   - Jogar League of Legends, CS:GO e o que mais convidares, e à espera de um MMORPG que inove.
