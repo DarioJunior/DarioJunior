@@ -40,7 +40,7 @@ Estudante de Desenvolvimento web pela Trybe | Turma 11
  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DarioJunior&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=2E8B57" alt="Dário Junior" />
 </p>
-<strong>Linguagens e ferramentas:</strong>  <br />
+<strong>Linguagens e ferramentas:</strong> <br/><br/>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
