@@ -12,11 +12,11 @@
 <p align="left" >
 🌎 Atualmente moro em São Carlos/SP.<br />
 <a href="http://betrybe.com/" target="_blank">
-  <img align="right" src="https://emoji.slack-edge.com/TMDDFEPFU/trybe_logoverde/1ff4f04c05e88868.png" width="20px" height="20px">
-</a><br />
-  
- <!--
+  <img align="left" src="https://emoji.slack-edge.com/TMDDFEPFU/trybe_logoverde/1ff4f04c05e88868.png" width="20px" height="20px">
+</a> Sou estudadente de Desenvolvimento web pela Trybe | Turma 11
 </p>
+ <!--
+
 <a href="https://www.linkedin.com/in/herikastrongreen/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
