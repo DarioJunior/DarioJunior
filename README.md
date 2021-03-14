@@ -26,8 +26,8 @@ Estudante de Desenvolvimento web pela Trybe | Turma 11
 <strong>Meus interesses pessoais:</strong> <br />
   - 💻 Estou estudando Front-end, <strong>HTML</strong>, <strong>CSS</strong>, <strong>JS</strong> e <strong>ReactJs</strong>. <br />
 - 👾 Meus hobbies são:<br/>
-  &nbsp&nbsp- Filmes e Séries; <br/>
-  &nbsp&nbsp - Jogar League of Legends, CS:GO e o que mais convidar, e à espera de um MMORPG que inove. <br />
+- Filmes e Séries; <br/>
+- Jogar League of Legends, CS:GO e o que mais convidar, e à espera de um MMORPG que inove. <br />
 - 📫 Se quiser pode enviar um email para dario.junior.rs@gmail.com
 </p>
 <!--- 📝 Veja meu <a href="https://drive.google.com/file/d/1Bpaj349XlLLYHCVUsrIdt15Y-JP_tR57/view?usp=drivesdk" target="_blank">Currículo</a> para mais informações.
