@@ -10,8 +10,8 @@
 </a><br />
 
 <p align="left" >
-🌎 &nbsp Atualmente moro em São Carlos/SP.<br />
-📚 &nbsp Curso analise e desenvolvimento de Sistemas pelo | Centro Universitário Senac<br />
+🌎 &nbsp&nbsp Atualmente moro em São Carlos/SP.<br />
+📚 &nbsp&nbsp Curso analise e desenvolvimento de Sistemas pelo | Centro Universitário Senac<br />
 <a href="http://betrybe.com/" target="_blank">
 <img align="left" src="https://emoji.slack-edge.com/TMDDFEPFU/trybe_logoverde/1ff4f04c05e88868.png" width="20px" height="20px">
 </a> 
