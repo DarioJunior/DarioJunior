@@ -20,12 +20,10 @@ Estudante de Desenvolvimento web pela Trybe | Turma 11
   <a href="https://www.linkedin.com/in/dario-junior/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
-
 </p>
-
 <hr />
 <p>
-**Meus interesses pessoais:**
+<strong>Meus interesses pessoais:</strong>
 - 💻 Estou estudando Front-end, **HTML**, **CSS**, **JS** e **ReactJs**.
 - 👾 Meus hobbies são: 
   - Filmes e Séries;
