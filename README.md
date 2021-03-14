@@ -17,28 +17,10 @@
 </a> 
 Estudante de Desenvolvimento web pela Trybe | Turma 11
 </p>
- <!--
-
-<a href="https://www.linkedin.com/in/herikastrongreen/" target="_blank">
+<a href="https://www.linkedin.com/in/dario-junior/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
-<p align="left" >
-Nas horas livres produzo conteúdos de tecnologia para as plataformas:
-</p>
-<p align="left" >
-<ul>
-  <li>Youtube </li>
-  <li>Instagram </li>
-</ul>
-</p>
-<p align="left" >
-🚀 Também já palestrei em eventos como:
-  <ul>
-  <li> Arduino Day </li>
-  <li> LatinoWare </li>
-</ul>
-</p>
-</p>
+
 <!--
 <hr />
 **Meus interesses pessoais:**
