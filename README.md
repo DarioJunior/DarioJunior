@@ -11,10 +11,11 @@
 
 <p align="left" >
 🌎 Atualmente moro em São Carlos/SP.<br />
+📚 Curso analise e desenvolvimento de Sistemas pelo | Centro Universitário Senac
 <a href="http://betrybe.com/" target="_blank">
-  <img align="left" src="https://emoji.slack-edge.com/TMDDFEPFU/trybe_logoverde/1ff4f04c05e88868.png" width="20px" height="20px">
-</a> <br />
-Sou estudadente de Desenvolvimento web pela Trybe | Turma 11
+<img align="left" src="https://emoji.slack-edge.com/TMDDFEPFU/trybe_logoverde/1ff4f04c05e88868.png" width="20px" height="20px">
+</a>
+Estudante de Desenvolvimento web pela Trybe | Turma 11
 </p>
  <!--
 
