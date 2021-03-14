@@ -12,7 +12,7 @@
 <p align="left" >
 🌎 Atualmente moro em São Carlos/SP.<br />
 <a href="http://betrybe.com/" target="_blank">
-  <img align="right" src="https://emoji.slack-edge.com/TMDDFEPFU/trybe_logoverde/1ff4f04c05e88868.png" width="48px" height="48px">
+  <img align="right" src="https://emoji.slack-edge.com/TMDDFEPFU/trybe_logoverde/1ff4f04c05e88868.png" width="12px" height="12px">
 </a><br />
   
  <!--
