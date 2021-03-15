@@ -16,10 +16,10 @@
 <a href="http://betrybe.com/" target="_blank">
 <img align="left" src="https://emoji.slack-edge.com/TMDDFEPFU/trybe_logoverde/1ff4f04c05e88868.png" width="20px" height="20px">
 </a> 
-Estudante de Desenvolvimento web pela Trybe | Turma 11<br/>
+Estudante de Desenvolvimento web pela Trybe | Turma 11
   <a href="https://www.linkedin.com/in/dario-junior/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
+</a><br/>
 </p>
 <hr />
 <p>
