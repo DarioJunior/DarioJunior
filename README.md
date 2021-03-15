@@ -23,7 +23,9 @@ Estudante de Desenvolvimento web pela Trybe | Turma 11
 </p>
 <hr />
 <p>
-<strong>Meus interesses pessoais:</strong> <br />
+<strong>Um pouco sobre mim:</strong> <br />
+  
+  <img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1615832158477.png" width="400px">
   - 💻 Estou estudando Front-end, <strong>HTML</strong>, <strong>CSS</strong>, <strong>JS</strong> e <strong>ReactJs</strong>. <br />
 - 👾 Meus hobbies são:<br/>
 - Filmes e Séries; <br/>
