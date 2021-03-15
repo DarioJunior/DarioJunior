@@ -12,7 +12,7 @@
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a><br />
 🌎 &nbsp&nbsp Atualmente moro em São Carlos/SP.<br />
-📚 &nbsp&nbsp Curso analise e desenvolvimento de Sistemas pelo | Centro Universitário Senac<br />
+📚 &nbsp&nbsp Curso analise e desenvolvimento de Sistemas pelo Centro Universitário Senac<br />
 <a href="http://betrybe.com/" target="_blank">
 <img align="left" src="https://emoji.slack-edge.com/TMDDFEPFU/trybe_logoverde/1ff4f04c05e88868.png" width="20px" height="20px">
 </a> 
