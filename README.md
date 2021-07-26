@@ -26,7 +26,8 @@ Estudante de Desenvolvimento web pela Trybe | Turma 11
 <strong>Um pouco sobre mim:</strong> <br />
   
   <img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1615832158477.png" width="300px">
-  - 💻 Estou estudando Front-end, <strong>HTML</strong>, <strong>CSS</strong>, <strong>JS</strong> e <strong>ReactJs</strong>. <br />
+  - 💻✅ Módulo Front-end concluído, <strong>HTML</strong>, <strong>CSS</strong>, <strong>JS</strong>, <strong>Jest</strong> e <stro1ng>ReactJS</strong>. <br />
+  - 💻✅ Atualmente estudando <stro1ng>SQL</strong>, em breve, <stro1ng>MySQL</strong>, <stro1ng>MongoDB</strong> e <stro1ng>NodeJS</strong>. <br />
 - 👾 Meus hobbies são:<br/>
 - Filmes e Séries; <br/>
 - Jogar League of Legends, CS:GO e o que mais convidar, e à espera de um MMORPG que inove. <br />
