@@ -68,7 +68,7 @@ Estudante de Desenvolvimento web pela Trybe | Turma 11
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40" /> -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" /> -->
 </p>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=DarioJunior" alt="Dário Junior" /></p>
+<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=DarioJunior" alt="Dário Junior" /></p> -->
 
 ⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
 
