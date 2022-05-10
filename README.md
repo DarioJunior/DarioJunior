@@ -37,10 +37,10 @@ Formado em Desenvolvimento Web Fullstack pela Trybe | Turma 11
 </p>
 <!--- 📝 Veja meu <a href="https://drive.google.com/file/d/1Bpaj349XlLLYHCVUsrIdt15Y-JP_tR57/view?usp=drivesdk" target="_blank">Currículo</a> para mais informações.
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strongreen&layout=compact&theme=graywhite&title_color=268bd2" alt="Dário Junior" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DárioJunior&layout=compact&theme=graywhite&title_color=268bd2" alt="Dário Junior" />
 </p>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DarioJunior&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=2E8B57" alt="Dário Junior" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DarioJunior&count_private=false&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=2E8B57" alt="Dário Junior" />
 
 </p>
 <p>&nbsp;
