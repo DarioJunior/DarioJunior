@@ -11,8 +11,8 @@
   <a href="https://www.instagram.com/dariojunior_" target="_blank">
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a><br />
-🌎 &nbsp&nbsp Atualmente moro em São Carlos/SP.<br />
-💻 Estagiário de Desenvolvimento Web Fullstack na <a href="https://mandarin.com.br/" target="_blank">
+🌎 &nbsp&nbsp Atualmente moro em Santa Maria/RS.<br />
+💻 Desenvolvedor Web Fullstack Junior na <a href="https://mandarin.com.br/" target="_blank">
 Agência Mandarin </a><br/>
 ⚒ Profile do Trabalho: https://github.com/mandarinDarioJunior<br/>
 📚 &nbsp&nbsp Curso Análise e Desenvolvimento de Sistemas pelo Centro Universitário Senac<br />
