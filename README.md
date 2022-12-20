@@ -29,7 +29,7 @@ Formado em Desenvolvimento Web Fullstack pela Trybe | Turma 11
 <strong>Um pouco sobre mim:</strong> <br />
   
   <img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1615832158477.png" width="300px">
-  - 💻Desnevolvedor Web FullStack ReactJS/Nodejs com Typescript. <br />
+  - 💻Desenvolvedor Web FullStack ReactJS/Nodejs com Typescript. <br />
 - 👾 Meus hobbies são:<br/>
 - Filmes e Séries; <br/>
 - Jogar League of Legends, CS:GO e o que mais convidar, e à espera de um MMORPG que inove. <br />
