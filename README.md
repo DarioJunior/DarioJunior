@@ -15,7 +15,7 @@
   
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a><br />
-🌎 &nbsp&nbsp Atualmente moro em Santa Maria/RS.<br />
+🌎 Atualmente moro em Santa Maria/RS.<br />
 💻 Desenvolvedor Web Fullstack Junior na <a href="https://mandarin.com.br/" target="_blank">
 Agência Mandarin </a><br/>
 ⚒ Profile do Trabalho: https://github.com/mandarinDarioJunior<br/>
