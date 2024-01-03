@@ -9,6 +9,10 @@
 
 <p align="left" >
   <a href="https://www.instagram.com/dariojunior_" target="_blank">
+    <a href="https://www.linkedin.com/in/dario-junior/" target="_blank">
+  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
+  
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a><br />
 🌎 &nbsp&nbsp Atualmente moro em Santa Maria/RS.<br />
@@ -22,9 +26,6 @@ Agência Mandarin </a><br/>
 <img align="left" src="https://emoji.slack-edge.com/TMDDFEPFU/trybe_logoverde/1ff4f04c05e88868.png" width="20px" height="20px">
 </a> 
 Formado em Desenvolvimento Web Fullstack pela Trybe | Turma 11
-  <a href="https://www.linkedin.com/in/dario-junior/" target="_blank">
-  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a><br/>
 </p>
 <hr />
 <p>
