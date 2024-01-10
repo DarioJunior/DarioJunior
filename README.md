@@ -32,7 +32,7 @@ Agência Mandarin </a><br/>
 <hr />
 <p>
 <strong>Um pouco sobre mim:</strong> <br />
-  
+  📖 Em 2024: Direcionando os estudos para Angular e C# .NET.
   <img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1615832158477.png" width="300px">
   - 💻Desenvolvedor Web FullStack ReactJS/Nodejs com Typescript. <br />
 - 👾 Meus hobbies são:<br/>
