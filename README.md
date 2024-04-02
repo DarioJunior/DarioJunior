@@ -19,7 +19,10 @@
 💻 Desenvolvedor Web Fullstack Junior na <a href="https://mandarin.com.br/" target="_blank">
 Agência Mandarin </a><br/>
 ⚒ Profile do Trabalho: https://github.com/mandarinDarioJunior<br/>
-<img src="https://github.com/DarioJunior/DarioJunior/assets/53787626/a23e7b25-27ee-4ed8-a5ea-f8addb6f10e1">
+_Por motivos de políticas internas da empresa, temos uma conta github profissional, onde o histórico acaba ficando todo lá._
+
+![image](https://github.com/DarioJunior/DarioJunior/assets/53787626/7945d5c9-c48a-4977-858d-0d6bb6103f5c)
+
 
 📚 Formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Senac<br />
 
