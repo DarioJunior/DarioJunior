@@ -3,7 +3,7 @@
 <a href="https://github.com/mandarinDarioJunior" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a><br />
-<p align="left" > Olá, me chamo Dário Junior 👋🏽</b>
+<p align="left" > Olá, me chamo Dário Junior 👋🏽 </b>
 </p>
 
 
