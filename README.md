@@ -23,8 +23,7 @@ _Por motivos de políticas internas da empresa, temos uma conta github profissio
 
 ![image](https://github.com/DarioJunior/DarioJunior/assets/53787626/7945d5c9-c48a-4977-858d-0d6bb6103f5c)
 
-
-📚 Formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Senac<br />
+📚 Formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Senac.<br />
 
 <img align="left" src="https://emoji.slack-edge.com/TMDDFEPFU/trybe_logoverde/1ff4f04c05e88868.png" width="20px" height="20px">
 <a href="http://betrybe.com/" target="_blank">
