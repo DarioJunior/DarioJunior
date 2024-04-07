@@ -33,7 +33,7 @@ _Por motivos de políticas internas da empresa, temos uma conta github profissio
 </p>
 <hr />
 <p>
-<strong>Um pouco sobre mim:</strong> <br />
+<strong>Um pouco sobre mim: </strong> <br />
   📖 Em 2024: Direcionando os estudos para Angular e C# .NET.
   <img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1615832158477.png" width="300px">
   - 💻Desenvolvedor Web FullStack ReactJS/Nodejs com Typescript. <br />
