@@ -9,7 +9,7 @@
 
 <p align="left" >
   <a href="https://www.instagram.com/dariojunior_" target="_blank">
-    <a href="https://www.linkedin.com/in/dario-junior/" target="_blank">
+  <a href="https://www.linkedin.com/in/dario-junior/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
   
