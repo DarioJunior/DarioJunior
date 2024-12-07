@@ -12,17 +12,17 @@
   <a href="https://www.linkedin.com/in/dario-junior/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
-  
-  <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
+  <img display="block" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a><br />
 🌎 Atualmente moro em Rosário do Sul/RS.<br />
 💻 Desenvolvedor Web Fullstack Junior na <a href="https://mandarin.com.br/" target="_blank">
 Agência Mandarin </a><br/>
+<p>
 ⚒ Profile do Trabalho: https://github.com/mandarinDarioJunior<br/>
-_Por motivos de políticas internas da empresa, temos uma conta github profissional, onde o histórico acaba ficando todo lá._
-<img align="right" src="https://github.com/user-attachments/assets/02cbf684-3959-43b7-b145-b7af9e644a08" width="48px" height="48px">
-![image](https://github.com/user-attachments/assets/02cbf684-3959-43b7-b145-b7af9e644a08)
-https://github.com/user-attachments/assets/02cbf684-3959-43b7-b145-b7af9e644a08
+_Por motivos de políticas internas da empresa, temos uma conta github profissional, onde o histórico acaba ficando todo lá._    
+</p><br />
+<img src="https://github.com/user-attachments/assets/02cbf684-3959-43b7-b145-b7af9e644a08" width="800px" height="150px">
+<br />
 📚 Formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Senac.<br />
 
 <img align="left" src="https://emoji.slack-edge.com/TMDDFEPFU/trybe_logoverde/1ff4f04c05e88868.png" width="20px" height="20px">
