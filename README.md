@@ -20,8 +20,9 @@
 Agência Mandarin </a><br/>
 ⚒ Profile do Trabalho: https://github.com/mandarinDarioJunior<br/>
 _Por motivos de políticas internas da empresa, temos uma conta github profissional, onde o histórico acaba ficando todo lá._
+<img align="right" src="https://github.com/user-attachments/assets/02cbf684-3959-43b7-b145-b7af9e644a08" width="48px" height="48px">
 ![image](https://github.com/user-attachments/assets/02cbf684-3959-43b7-b145-b7af9e644a08)
-
+https://github.com/user-attachments/assets/02cbf684-3959-43b7-b145-b7af9e644a08
 📚 Formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Senac.<br />
 
 <img align="left" src="https://emoji.slack-edge.com/TMDDFEPFU/trybe_logoverde/1ff4f04c05e88868.png" width="20px" height="20px">
